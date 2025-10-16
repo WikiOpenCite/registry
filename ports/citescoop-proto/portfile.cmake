@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO WikiOpenCite/proto
-    REF 0.1.1
-    SHA512 07e886224623a6729e60f3cef9e92fab5a5be0b35c19fc674fcbf79093ec4891f244a043c332814de8592ecfdbefe2cb28050a5aeb23229df52fddd42ebe8ecc
+    REF 0.1.2
+    SHA512 3e2ccbc81abe3aaadd80f4d5c6b4aed6738f9b0d44df8c5e62be6473cdeb3c791c59adf4d890e31167ed4cfdefa31a4c4b5a7c3e92e513906b7c5bee3e76dad3
     HEAD_REF main
 )
 
