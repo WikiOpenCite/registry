@@ -1,7 +1,7 @@
 {
   "default": {
     "citescoop-proto": {
-      "baseline": "0.1.2",
+      "baseline": "0.1.3",
       "port-version": 0
     }
   }
