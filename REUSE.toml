@@ -1,0 +1,9 @@
+version = 1
+SPDX-PackageName = "registry"
+SPDX-PackageSupplier = "The University of St Andrews"
+
+[[annotations]]
+path = ["versions/**/*", "ports/**/*"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2025 The University of St Andrews"
+SPDX-License-Identifier = "GPL-3.0-or-later"
