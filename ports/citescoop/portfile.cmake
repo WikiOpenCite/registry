@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO WikiOpenCite/citescoop
-    REF 0.1.0
-    SHA512 0a8eec13e72e1d49e00ca924c4ff8136c5a435b4bb51cfdeda98aa675b4ae5ee9f69cf98babb63e473e0637b0d8bbf6605a0c3bd6d083cf1fa15c9f9ebb150ef
+    REF 0.1.1
+    SHA512 7c3945909ea8a2833ca49f75c4ffa94f63dd170433de5587f53497d485a6a2a6f0d19a139bba436b512847afa5509dab8c0b673240ddc12213c4f0c79b5fedd5
     HEAD_REF main
 )
 
