@@ -1,0 +1,29 @@
+{
+  "name": "citescoop-proto",
+  "version-semver": "0.1.0",
+  "description": "MediaWiki XML dump parsing library",
+  "homepage": "https://github.com/WikiOpenCite/citescoop",
+  "dependencies": [
+    {
+      "name": "boost-algorithm",
+      "version>=": "1.89.0"
+    },
+    {
+      "name": "boost-iostreams",
+      "version>=": "1.89.0"
+    },
+    {
+      "name": "boost-parser",
+      "version>=": "1.89.0"
+    },
+    {
+      "name": "citescoop-proto",
+      "version>=": "0.4.0"
+    },
+    {
+      "name": "libxmlpp",
+      "version>=": "5.4.0"
+    },
+    "vcpkg-cmake"
+  ]
+}
