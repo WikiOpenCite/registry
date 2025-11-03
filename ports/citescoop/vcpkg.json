@@ -1,5 +1,5 @@
 {
-  "name": "citescoop-proto",
+  "name": "citescoop",
   "version-semver": "0.1.0",
   "description": "MediaWiki XML dump parsing library",
   "homepage": "https://github.com/WikiOpenCite/citescoop",
