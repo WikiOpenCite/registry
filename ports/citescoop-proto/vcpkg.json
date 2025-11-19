@@ -1,6 +1,6 @@
 {
   "name": "citescoop-proto",
-  "version-semver": "0.4.1",
+  "version-semver": "0.5.0",
   "description": "Protobuf definitions used by citescoop.",
   "homepage": "https://github.com/WikiOpenCite/citescoop",
   "dependencies": [
