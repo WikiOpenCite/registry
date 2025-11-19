@@ -9,16 +9,10 @@ vcpkg registry for WikiOpenCite packages
 
 ## Updating / adding ports
 
-Fetch the tar.gz of the latest release from
+Get the sha512
 
 ```
-http://github.com/<org>/<repo>/archive/<tag>.tar.gz
-```
-
-Calculate the SHA512 and add it to the relevant cmake file.
-
-```
-sha512sum <repo>-<tag>.tar.gz
+./get_sha512.sh <repo> <version>
 ```
 
 Format the config file.
